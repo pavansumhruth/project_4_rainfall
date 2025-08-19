@@ -1,0 +1,34 @@
+# General
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
+*.swp
+.env
+.venv/
+
+# Java / Maven
+target/
+*.iml
+.mvn/wrapper/
+mvnw
+mvnw.cmd
+
+# Node / Vite
+node_modules/
+dist/
+.pnpm-store/
+.yarn/
+.turbo/
+
+# Python
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+
+# Docker
+*.local.yml
